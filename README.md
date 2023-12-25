@@ -1,2 +1,2 @@
 # first-code-demo
-frist git 
+frist git  repository
